@@ -1,5 +1,5 @@
 # Full Stack .Net Developer interview Questions and answers
-
+ 
 
 1. What  is .NET?
 .NET is a software framework developed by Microsoft that provides a programming model for building applications, and a runtime for executing those applications.
