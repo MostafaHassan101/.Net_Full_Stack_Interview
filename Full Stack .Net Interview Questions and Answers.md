@@ -1,5 +1,6 @@
 # Full Stack .Net Developer interview Questions
 
+
 What is .NET?
 What are the different components of .NET?
 What is C#?
